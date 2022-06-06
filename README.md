@@ -1,6 +1,6 @@
 Just a Gird layout try..
- 
-![alt text](http://url/to/img.png)
+
+![screenshot](ss.png)
 ## Getting Started
 
 First, run the development server:
