@@ -1,4 +1,4 @@
-Just a Gird layout try..
+Just a Grid layout try..
 
 ![screenshot](ss.png)
 ## Getting Started
